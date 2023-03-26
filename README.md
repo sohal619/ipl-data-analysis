@@ -10,7 +10,7 @@ IPL Data Analysis:
 * A Comparison between TCS & INFOSYS stocks to under which stocks perform better over time.
 
 
-<img src="https://github.com/sohal619/icons-pics/blob/main/stocks%20tech%20set.png?raw=true">
+<img src="https://github.com/sohal619/icons-pics/blob/main/IPL%20TECH%20SET.png?raw=true">
 
 <h2>
 <img src="https://github.com/sohal619/icons-pics/blob/main/foldergif.gif?raw=true" align="center"> 

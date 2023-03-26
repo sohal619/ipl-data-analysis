@@ -3,11 +3,11 @@
 IPL Data Analysis:
 </h1>
 
-* Exploratory Data Analysis on TCS & INFOSYS stocks data.
+* A Solution as an information platform of historical data of the Indian Premier League.
 
-* In this project, I am working with time series data to explain how data looks like over a time period.
+* Explore python skills and come up with automated HTML pages.
 
-* A Comparison between TCS & INFOSYS stocks to under which stocks perform better over time.
+* Deployed as a complete website with over 150 web pages.
 
 
 <img src="https://github.com/sohal619/icons-pics/blob/main/IPL%20TECH%20SET.png?raw=true">

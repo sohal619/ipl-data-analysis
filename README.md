@@ -36,8 +36,6 @@ click on image to visit:
 <img src="https://github.com/sohal619/icons-pics/blob/main/IPL_UI.jpg?raw=true">
 </a>
 
-<br>
-
 <h2>
 <img src="https://github.com/sohal619/icons-pics/blob/main/dashboardgif.gif?raw=true" align="center"> 
 Dashboard:

@@ -46,7 +46,7 @@ Dashboard:
 </h2>
 
 
-Note: You can find dashboard button on Web App:
+Note: You can find dashboard button on Web App also:
 <a href="https://sohal619.github.io/ipl-data-analysis/dashboard.html">
 <img src="https://github.com/sohal619/icons-pics/blob/main/IPL_dashboard.jpg?raw=true">
 </a>

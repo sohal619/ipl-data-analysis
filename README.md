@@ -32,7 +32,7 @@ Website:
 
 click on image to visit:
 
-<a href="https://sohal619.github.io/Infosys-VS-Tcs/">
+<a href="https://sohal619.github.io/ipl-data-analysis/">
 <img src="https://github.com/sohal619/icons-pics/blob/main/IPL_UI.jpg?raw=true">
 </a>
 
